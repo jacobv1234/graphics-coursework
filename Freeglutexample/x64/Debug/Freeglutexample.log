@@ -1,0 +1,12 @@
+﻿  main.cpp
+C:\Users\jacob\Desktop\UEA STUFF\Computer Graphics\COURSEWORK\main.cpp(135,20): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\jacob\Desktop\UEA STUFF\Computer Graphics\COURSEWORK\main.cpp(211,22): warning C4305: '=': truncation from 'double' to 'T'
+C:\Users\jacob\Desktop\UEA STUFF\Computer Graphics\COURSEWORK\main.cpp(211,22): warning C4305:         with
+C:\Users\jacob\Desktop\UEA STUFF\Computer Graphics\COURSEWORK\main.cpp(211,22): warning C4305:         [
+C:\Users\jacob\Desktop\UEA STUFF\Computer Graphics\COURSEWORK\main.cpp(211,22): warning C4305:             T=float
+C:\Users\jacob\Desktop\UEA STUFF\Computer Graphics\COURSEWORK\main.cpp(211,22): warning C4305:         ]
+C:\Users\jacob\Desktop\UEA STUFF\Computer Graphics\COURSEWORK\main.cpp(763,35): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\jacob\Desktop\UEA STUFF\Computer Graphics\COURSEWORK\main.cpp(764,35): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\jacob\Desktop\UEA STUFF\Computer Graphics\COURSEWORK\main.cpp(765,35): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\jacob\Desktop\UEA STUFF\Computer Graphics\COURSEWORK\main.cpp(1021,18): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  Freeglutexample.vcxproj -> C:\Users\jacob\Desktop\UEA STUFF\Computer Graphics\COURSEWORK\x64\Debug\Freeglutexample.exe
